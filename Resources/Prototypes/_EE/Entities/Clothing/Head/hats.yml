@@ -1,0 +1,9 @@
+- type: entity
+  parent: ClothingHeadHatBeretCmo
+  name: chief medical officer's beret (placeholder)
+  description: Turquoise beret with a cross on the front. The sight of it calms you down and makes it clear that you will be cured. (placeholder)
+  components:
+  - type: Sprite
+    sprite: _EE/Clothing/Head/Hats/beret_cmo_senior.rsi
+  - type: Clothing
+    sprite: _EE/Clothing/Head/Hats/beret_cmo_senior.rsi
